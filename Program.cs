@@ -5,7 +5,7 @@ using System.Security.Principal;
 class Phanto
 {
     private static String name = ".pht";
-    private static String execute = @"C:\Users\Markus\Documents\Phanto\Phanto\bin\Debug\net7.0-windows\Phanto.exe";
+    private static String execute = @"cmd.exe";
     
     static void Main(string[] args)
     {

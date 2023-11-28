@@ -2,6 +2,8 @@
 
 ## Description
 
+Phanto is a utility that specializes in UAC bypass and privilege escalation, enabling it to bypass User Account Control on Windows 10 and 11 systems and attain Administrator privileges.
+
 ### For non technical users
 
 You can use Phanto to infect a Windows 10 or 11 operating system. This only works if the account you are trying to infect is an Administrator and double clicks Phanto. 

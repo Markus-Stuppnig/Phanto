@@ -1,0 +1,14 @@
+/home/markus/Documents/Projects/GitHub/Phanto/bin/Debug/net7.0/Phanto
+/home/markus/Documents/Projects/GitHub/Phanto/bin/Debug/net7.0/Phanto.deps.json
+/home/markus/Documents/Projects/GitHub/Phanto/bin/Debug/net7.0/Phanto.runtimeconfig.json
+/home/markus/Documents/Projects/GitHub/Phanto/bin/Debug/net7.0/Phanto.dll
+/home/markus/Documents/Projects/GitHub/Phanto/bin/Debug/net7.0/Phanto.pdb
+/home/markus/Documents/Projects/GitHub/Phanto/obj/Debug/net7.0/Phanto.GeneratedMSBuildEditorConfig.editorconfig
+/home/markus/Documents/Projects/GitHub/Phanto/obj/Debug/net7.0/Phanto.AssemblyInfoInputs.cache
+/home/markus/Documents/Projects/GitHub/Phanto/obj/Debug/net7.0/Phanto.AssemblyInfo.cs
+/home/markus/Documents/Projects/GitHub/Phanto/obj/Debug/net7.0/Phanto.csproj.CoreCompileInputs.cache
+/home/markus/Documents/Projects/GitHub/Phanto/obj/Debug/net7.0/Phanto.dll
+/home/markus/Documents/Projects/GitHub/Phanto/obj/Debug/net7.0/refint/Phanto.dll
+/home/markus/Documents/Projects/GitHub/Phanto/obj/Debug/net7.0/Phanto.pdb
+/home/markus/Documents/Projects/GitHub/Phanto/obj/Debug/net7.0/Phanto.genruntimeconfig.cache
+/home/markus/Documents/Projects/GitHub/Phanto/obj/Debug/net7.0/ref/Phanto.dll

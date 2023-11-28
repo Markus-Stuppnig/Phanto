@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Phanto
-build_property.ProjectDir = C:\Users\Markus\Documents\Phanto\Phanto\
+build_property.ProjectDir = /home/markus/Documents/Projects/GitHub/Phanto/

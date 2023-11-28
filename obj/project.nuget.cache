@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "g5evRcEkGQ9miQRXKOQnyHmGbpT3c1lSVJB7y7wV9YL4LoCesnrvU/Bztaxy36kuwMsogct17nX7xdGVSPIdLw==",
+  "dgSpecHash": "Ef34GW3hdB9eV84a2FLc4l9awuH9hKHmnVS+ajtAhphAIid5Fsefx5JMeLINHKqdm4L0dF6OKPXJ28T2kFI1JA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Markus\\Documents\\Phanto\\Phanto\\Phanto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/markus/Documents/Projects/GitHub/Phanto/Phanto.csproj",
+  "expectedPackageFiles": [
+    "/home/markus/.nuget/packages/microsoft.netcore.app.runtime.win-x86/7.0.13/microsoft.netcore.app.runtime.win-x86.7.0.13.nupkg.sha512",
+    "/home/markus/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512",
+    "/home/markus/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x86/7.0.13/microsoft.aspnetcore.app.runtime.win-x86.7.0.13.nupkg.sha512",
+    "/home/markus/.nuget/packages/microsoft.netcore.app.host.win-x86/7.0.13/microsoft.netcore.app.host.win-x86.7.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

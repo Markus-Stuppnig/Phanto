@@ -1,0 +1,2 @@
+/home/markus/Documents/Projects/GitHub/Phanto/bin/Release/net7.0-windows/win-x86/publish/Phanto.pdb
+/home/markus/Documents/Projects/GitHub/Phanto/bin/Release/net7.0-windows/win-x86/publish/Phanto.exe
